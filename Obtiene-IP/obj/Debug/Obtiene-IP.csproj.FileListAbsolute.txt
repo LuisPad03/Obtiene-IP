@@ -25,3 +25,10 @@ E:\Source\Repos\Obtiene-IP\Obtiene-IP\obj\Debug\Obtiene-IP.csproj.CoreCompileInp
 E:\Source\Repos\Obtiene-IP\Obtiene-IP\obj\Debug\Obtiene-IP.TrustInfo.xml
 E:\Source\Repos\Obtiene-IP\Obtiene-IP\obj\Debug\Obtiene-IP.exe
 E:\Source\Repos\Obtiene-IP\Obtiene-IP\obj\Debug\Obtiene-IP.pdb
+E:\Source\Repos\Obtiene-IP\Obtiene-IP\bin\Debug\Obtiene-IP.exe.config
+E:\Source\Repos\Obtiene-IP\Obtiene-IP\bin\Debug\Obtiene-IP.exe.manifest
+E:\Source\Repos\Obtiene-IP\Obtiene-IP\bin\Debug\Obtiene-IP.application
+E:\Source\Repos\Obtiene-IP\Obtiene-IP\bin\Debug\Obtiene-IP.exe
+E:\Source\Repos\Obtiene-IP\Obtiene-IP\bin\Debug\Obtiene-IP.pdb
+E:\Source\Repos\Obtiene-IP\Obtiene-IP\obj\Debug\Obtiene-IP.exe.manifest
+E:\Source\Repos\Obtiene-IP\Obtiene-IP\obj\Debug\Obtiene-IP.application
