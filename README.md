@@ -20,3 +20,6 @@
       server.Credentials = new System.Net.NetworkCredential("CORREO DE SALIDA", "CONTRASEÑA DEL CORREO DE SALIDA");
         cambiar "CORREO DE SALIDA" por el correo del cual se enviaran los correo ejemplo luis@hotmail.com
         cambiar "CONTRASEÑA DEL CORREO DE SALIDA" por la contraseña del correo del cual se enviaran los correos
+
+
+NOTA: Puede que no se pueda ejecutar por que no encuentre certificado de la aplicación, para esto pueden crear un proyecto nuevo e ir creando carpetas iguales a este proyecto y pegar los archivos de este proyecto a su nuevo proycto.
