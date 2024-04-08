@@ -24,4 +24,4 @@
 
 NOTA: Puede que no se pueda ejecutar por que no encuentre certificado de la aplicación, para esto pueden:
 - Dar clic en propiedades del proyecto y la seccipón de FIRMA, quitar la seleccion de FIRMARLOS MANIFIESTOS DE CLICONCE
-*crear un proyecto nuevo e ir creando carpetas iguales a este proyecto y pegar los archivos de este proyecto a su nuevo proycto.
+-crear un proyecto nuevo e ir creando carpetas iguales a este proyecto y pegar los archivos de este proyecto a su nuevo proycto.
