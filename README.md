@@ -22,4 +22,6 @@
         cambiar "CONTRASEÑA DEL CORREO DE SALIDA" por la contraseña del correo del cual se enviaran los correos
 
 
-NOTA: Puede que no se pueda ejecutar por que no encuentre certificado de la aplicación, para esto pueden crear un proyecto nuevo e ir creando carpetas iguales a este proyecto y pegar los archivos de este proyecto a su nuevo proycto.
+NOTA: Puede que no se pueda ejecutar por que no encuentre certificado de la aplicación, para esto pueden:
+- Dar clic en propiedades del proyecto y la seccipón de FIRMA, quitar la seleccion de FIRMARLOS MANIFIESTOS DE CLICONCE
+*crear un proyecto nuevo e ir creando carpetas iguales a este proyecto y pegar los archivos de este proyecto a su nuevo proycto.
